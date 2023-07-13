@@ -1,0 +1,9 @@
+271 [23397603780352] INFO mrtehelpers.mrteenv <> - Product libs directory: /g100/prod/opt/compilers/intel/oneapi-2022/binary/vtune/2022.0.0/lib64
+271 [23397603780352] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+335 [23397603780352] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
+335 [23397603780352] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+363 [23397603780352] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
+560 [23397603780352] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+587 [23397603780352] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
+587 [23397603780352] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+610 [23397603780352] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
